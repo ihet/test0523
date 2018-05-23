@@ -1,0 +1,22 @@
+{
+  "name": "js-data-packer",
+  "version": "1.0.0",
+  "description": "An Useful Data Packer",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihet/test0523.git"
+  },
+  "author": "ihet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihet/test0523/issues"
+  },
+  "homepage": "https://github.com/ihet/test0523#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1"
+  }
+}
